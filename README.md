@@ -77,5 +77,5 @@
 **My activity for the life :**
 
 <div> 
-  <img align="right" width="300px" src="https://github-readme-stats.vercel.app/api?username=feden2906&show_icons=true" alt="myGitStats" > 
+  <img width="350px" src="https://github-readme-stats.vercel.app/api?username=NastyaGrigorieva&show_icons=true" alt="myGitStats" > 
 </div>
