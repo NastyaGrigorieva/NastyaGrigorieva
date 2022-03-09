@@ -4,13 +4,13 @@
 <a href="https://www.linkedin.com/in/%D0%BC%D0%B0%D0%BA%D1%81%D0%B8%D0%BC-%D1%84%D0%B5%D0%B4%D0%B5%D0%BD%D0%BA%D0%BE-22a5781b9/">
   <img align="left" alt="Linkdin" width="24px" src="https://github.com/feden2906/icons/blob/main/linkedin.png" />
 </a>
-<a href="https://www.instagram.com/maksfedenko/">
+<a href="https://www.instagram.com/nastase_grig/">
   <img align="left" alt="Instagram" width="24px" src="https://github.com/feden2906/icons/blob/main/instagram.png" />
 </a>
 <a href="https://t.me/feden2906">
   <img align="left" alt="Telegram" width="24px" src="https://github.com/feden2906/icons/blob/main/telegram.png" />
 </a>
-<a href="https://www.facebook.com/MaksFedenko">
+<a href="https://www.facebook.com">
   <img align="left" alt="Facebook" width="24px" src="https://github.com/feden2906/icons/blob/main/facebook.png" />
 </a>
 <a href="#">
