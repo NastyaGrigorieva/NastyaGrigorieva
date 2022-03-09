@@ -13,9 +13,6 @@
 <a href="https://www.facebook.com">
   <img align="left" alt="Facebook" width="24px" src="https://github.com/feden2906/icons/blob/main/facebook.png" />
 </a>
-<a href="#">
-  <img title="feden2906" align="left" alt="Skype" width="24px" src="https://github.com/feden2906/icons/blob/main/skype.png" />
-</a>
 <a href="mailto:feden2906@gmail.com">
   <img align="left" alt="Mail" width="24px" src="https://github.com/feden2906/icons/blob/main/gmail.png" />
 </a>
