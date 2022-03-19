@@ -38,7 +38,7 @@
   <img height="25" title="NodeJs" src="https://github.com/NastyaGrigorieva/icons/blob/main/skils/NodeJS.png">
 </a>
 <a href="https://github.com/NastyaGrigorieva/icons/blob/main/skils/MongoDB.png">
-  <img height="25" title="https://github.com/NastyaGrigorieva/icons/blob/main/skils/MongoDB.png">
+  <img height="25" title="MongoDB" src="https://github.com/NastyaGrigorieva/icons/blob/main/skils/MongoDB.png">
 </a>
 <a href="https://github.com/NastyaGrigorieva/icons/blob/main/skils/MySQL.png">
   <img height="25" title="MySQL" src="https://github.com/NastyaGrigorieva/icons/blob/main/skils/MySQL.png">
