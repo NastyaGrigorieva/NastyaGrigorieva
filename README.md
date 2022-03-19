@@ -1,7 +1,7 @@
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://www.linkedin.com/in/%D0%BC%D0%B0%D0%BA%D1%81%D0%B8%D0%BC-%D1%84%D0%B5%D0%B4%D0%B5%D0%BD%D0%BA%D0%BE-22a5781b9/">
+<a href="https://www.linkedin.com/in/%D0%BD%D0%B0%D1%81%D1%82%D1%8F-%D0%B3%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B0-793144218/">
   <img align="left" alt="Linkdin" width="24px" src="https://github.com/feden2906/icons/blob/main/linkedin.png" />
 </a>
 <a href="https://www.instagram.com/nastase_grig/">
@@ -10,10 +10,10 @@
 <a href="https://t.me/feden2906">
   <img align="left" alt="Telegram" width="24px" src="https://github.com/feden2906/icons/blob/main/telegram.png" />
 </a>
-<a href="https://www.facebook.com">
+<a href="https://m.facebook.com/profile.php">
   <img align="left" alt="Facebook" width="24px" src="https://github.com/feden2906/icons/blob/main/facebook.png" />
 </a>
-<a href="mailto:feden2906@gmail.com">
+<a href="mailto:nastya.grigoreva1502@gmail.com">
   <img align="left" alt="Mail" width="24px" src="https://github.com/feden2906/icons/blob/main/gmail.png" />
 </a>
 
