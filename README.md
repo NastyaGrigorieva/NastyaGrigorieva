@@ -7,7 +7,7 @@
 <a href="https://www.instagram.com/nastase_grig/">
   <img align="left" alt="Instagram" width="24px" src="https://github.com/feden2906/icons/blob/main/instagram.png" />
 </a>
-<a href="https://t.me/feden2906">
+<a href="https://t.me/GrigorievaAnastasy">
   <img align="left" alt="Telegram" width="24px" src="https://github.com/feden2906/icons/blob/main/telegram.png" />
 </a>
 <a href="https://m.facebook.com/profile.php">
