@@ -37,12 +37,12 @@
 <a href="https://github.com/NastyaGrigorieva/icons/blob/main/skils/NodeJS.png">
   <img height="25" title="NodeJs" src="https://github.com/NastyaGrigorieva/icons/blob/main/skils/NodeJS.png">
 </a>
-<a href="https://github.com/NastyaGrigorieva/icons/blob/main/skils/MongoDB.png">
+<!-- <a href="https://github.com/NastyaGrigorieva/icons/blob/main/skils/MongoDB.png">
   <img height="25" title="MongoDB" src="https://github.com/NastyaGrigorieva/icons/blob/main/skils/MongoDB.png">
-</a>
-<a href="https://github.com/NastyaGrigorieva/icons/blob/main/skils/MySQL.png">
+</a> -->
+<!-- <a href="https://github.com/NastyaGrigorieva/icons/blob/main/skils/MySQL.png">
   <img height="25" title="MySQL" src="https://github.com/NastyaGrigorieva/icons/blob/main/skils/MySQL.png">
-</a>
+</a> -->
 
 <a href="https://github.com/NastyaGrigorieva/icons/blob/main/skils/React.png">
   <img height="25" title="React" src="https://github.com/NastyaGrigorieva/icons/blob/main/skils/React.png">
